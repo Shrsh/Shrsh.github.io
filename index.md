@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## This is Harsh's page. 
 
-You can use the [editor on GitHub](https://github.com/Shrsh/minima/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Myself
+I'm a MS by Research student at Robotics Research Center, IIIT-Hyderabad. I work on Non Linear Controls and it's applications in autonomous vehicles. I'm also really interested in NLP and Reinforement Learning. Apart from this stuff, you can mostly find me watching movies or creating my own music with my Guitar/Keyboard. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
